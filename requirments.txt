@@ -1,6 +1,6 @@
-streamlit
-pdfplumber==0.10.2
+pdfplumber>=0.10.0
+streamlit>=1.32.0
+requests>=2.31.0
 PyPDF2
 pillow
-requests
 graphviz
