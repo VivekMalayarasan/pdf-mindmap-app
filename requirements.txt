@@ -1,0 +1,6 @@
+streamlit
+pdfplumber==0.10.2
+PyPDF2
+pillow
+requests
+graphviz
