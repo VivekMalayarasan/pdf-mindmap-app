@@ -1,5 +1,7 @@
 streamlit
 ultralytics
+PyPDF2
+pillow
 pdfplumber
 requests
 graphviz
