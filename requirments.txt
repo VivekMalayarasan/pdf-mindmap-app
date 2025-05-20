@@ -1,7 +1,6 @@
 streamlit
-ultralytics
+pdfplumber==0.10.2
 PyPDF2
 pillow
-pdfplumber
 requests
 graphviz
